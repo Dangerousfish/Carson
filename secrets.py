@@ -1,0 +1,2 @@
+SSID = "<<WIFI SSID>>"
+PASSWORD = "<<WIFI PASSWORD>>"
